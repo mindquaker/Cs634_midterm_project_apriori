@@ -352,7 +352,7 @@ for i in range(1,len(L)):
 
 # In[456]:
 
-
+print("\n\n Printing Assotiation Rules \n")
 print(association_rules)
 
 
